@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @Mangesh-sonwane -->
 - Hello Coders 👋 , I' am Mangesh
-- 👀 I’m interested in ML,DL and Blockchain.
+- 👀 I’m interested in AI and Web3.
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
